@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MediaHub", "..\..\..\..\CodeRelated\C# Programs\Adv. MIS Programming\MediaHub\", "{C2958C27-54FE-4F81-94C1-EF82E6229C3D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/MediaHub"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\CodeRelated\C# Programs\Adv. MIS Programming\MediaHub\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MediaHub\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/MediaHub"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\CodeRelated\C# Programs\Adv. MIS Programming\MediaHub\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MediaHub\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56056"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2958C27-54FE-4F81-94C1-EF82E6229C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2958C27-54FE-4F81-94C1-EF82E6229C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
